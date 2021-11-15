@@ -1,0 +1,4 @@
+com\mycompany\myproject\model\Product.class
+com\mycompany\myproject\repositories\ProductRepository.class
+com\mycompany\myproject\restcontrollers\ProductController.class
+com\mycompany\myproject\restcontrollers\InventoryController.class
